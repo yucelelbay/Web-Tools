@@ -3,12 +3,12 @@ body {
     background-image: url("./images/develop.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size: cover;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
     font-size: large;
     height: 100vh;
-
 } 
 .ana {
     margin: 8px auto;
