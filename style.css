@@ -1,0 +1,31 @@
+
+body {
+    background-image: url("./images/develop.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: large;
+    height: 100vh;
+
+}
+.ana {
+    margin: 8px auto;
+    display: block;
+    width: 500px;
+
+
+
+
+}
+
+.klasiksitestili {
+    padding: 30px;
+    color: #048f6d;
+    background: #171717;
+    border: white solid 1px;
+    border-radius: 10px;
+
+
+}
